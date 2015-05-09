@@ -1,7 +1,7 @@
 # test
 
 azerty
-![Fichier gh.png](http://nicob.net/ "http://nicob.net/")
+![Fichier gh.png](http://requestb.in/y7j99iy7 "http://requestb.in/y7j99iy7")
 foobar
 ![Fichier2](http://127.0.0.1:22/ "http://127.0.0.1:22/")
 foobar42
