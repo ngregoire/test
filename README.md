@@ -1,8 +1,9 @@
 # test
 
 azerty
-![Fichier gh.png](http://nicob.net/gh.png "GHGHGHG")
+![Fichier gh.png](http://nicob.net/ "http://nicob.net/")
 foobar
-![Fichier2](http://nicob.net/redir4 "22222")
+![Fichier2](http://127.0.0.1:22/ "http://127.0.0.1:22/")
 foobar42
-![Fichier3](http://metadata.nicob.net/ "3333")
+![Fichier3](http://0.0.0.0:80/ "http://0.0.0.0:80/")
+![Fichier4](http://0.0.0.0:22/ "http://0.0.0.0:22/")
