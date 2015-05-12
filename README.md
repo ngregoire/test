@@ -9,4 +9,5 @@ Commenté
 
 WIP
 
-![wip1](http://nicob.net/redir1)
+![wip1](http://nicob.net/redirbin)
+![wip2](http://requestb.in/1mnpim41?direct_mode)
