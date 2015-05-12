@@ -9,5 +9,4 @@ Commenté
 
 WIP
 
-![wip1](http://nicob.net/file1 "xxxx")
-![wip2](zzz "http://nicob.net/file2")
+![wip1](http://nicob.net/redir1)
