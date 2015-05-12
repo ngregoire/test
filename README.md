@@ -9,10 +9,12 @@ Commenté
 
 WIP
 
+![wip0](http://nicob.net/redirslack)
+
 ! [wip1](http://nicob.net/redirbin)
 ! [wip2](http://requestb.in/1mnpim41?direct_mode)
 ! [wip3](http://requestb.in/1mnpim41?crlf1%0D%0A222=x&y=crlf3%0D%0A444)
-![wip4](http://req%0D%0Auestb.sqli.nicob.net/1mnpim41?crlf1%0D%0A222=x&y=crlf3%0D%0A444)
+! [wip4](http://req%0D%0Auestb.sqli.nicob.net/1mnpim41?crlf1%0D%0A222=x&y=crlf3%0D%0A444)
 ! [wip5](http://requestb.in/1mnpim41?x=crlf6
 777)
 ! [wip6](http://requestb.in/1mnpim41?z=crlf8\r\n999)
